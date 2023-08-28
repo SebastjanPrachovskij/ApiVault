@@ -455,6 +455,7 @@
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping with a simple API | apiKey | True | unknown |
 | [ScrapingDog](https://www.scrapingdog.com/) | Proxy API for Web scraping | apiKey | True | unknown |
 | [ScreenshotAPI.net](https://screenshotapi.net/) | Create pixel-perfect website screenshots | apiKey | True | yes |
+| [SearchApi](https://www.searchapi.io/) | Real-time Google and other search engines results API | apiKey | True | no |
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text |  | True | no |
 | [serpstack](https://serpstack.com/) | Real-Time & Accurate Google Search Results API | apiKey | True | yes |
 | [Sheetsu](https://sheetsu.com/) | Easy google sheets integration | apiKey | True | unknown |
